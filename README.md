@@ -19,10 +19,10 @@ TemplateGSM is organized into configurations based on the volume of problems gen
 
 ### Configurations
 
-- **templategsm-1000-1k**: Contains 1k problems generated from each of the 1000 templates (template 0000-0999), totaling over 1 million individual problems.
-- **templategsm-2000-1k**: Contains 2k problems generated from each of the 2000 templates (template 0000-1999), culminating in a dataset with 2 million problems.
-- **templategsm-4000-1k**: Contains 1k problems generated from each of the 4000 templates (template 0000-3999), culminating in a dataset with 4 million problems.
-- **templategsm-7473-1k**: Contains 1k problems generated from each of the 7473 templates (template 0000-7472), culminating in a dataset with over 7.47 million problems.
+- **templategsm-1000-1k**: Contains 1000 * 1k problems generated from each of the 1000 templates (template 0000-0999), totaling over 1 million individual problems.
+- **templategsm-2000-1k**: Contains 2000 * 1k problems generated from each of the 2000 templates (template 0000-1999), culminating in a dataset with 2 million problems.
+- **templategsm-4000-1k**: Contains 4000 * 1k problems generated from each of the 4000 templates (template 0000-3999), culminating in a dataset with 4 million problems.
+- **templategsm-7473-1k**: Contains 7473 * 1k problems generated from each of the 7473 templates (template 0000-7472), culminating in a dataset with over 7.47 million problems.
 
 ### Data Fields
 
