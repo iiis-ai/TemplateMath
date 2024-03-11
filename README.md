@@ -2,7 +2,7 @@
 
 ## TemplateGSM Dataset
 
-The TemplateGSM dataset is a novel and extensive collection containing over **7 million grade school math problems** with code solutions and natural language solutions designed for advancing the study and application of mathematical reasoning within the realm of artificial intelligence. This dataset is crafted to challenge and evaluate the capabilities of language models in understanding and generating solutions to mathematical problems derived from a set of **7473** predefined problem templates using examples from the GSM8K dataset as prototypes. Each template encapsulates a unique mathematical problem structure, offering a diverse array of challenges that span various domains of mathematics.
+The TemplateGSM dataset is a novel and extensive collection containing over **7 million grade school math problems** with code solutions and natural language solutions designed for advancing the study and application of mathematical reasoning within the realm of language modeling and AI. This dataset is crafted to challenge and evaluate the capabilities of language models in understanding and generating solutions to mathematical problems derived from a set of **7473** predefined problem templates using examples from the GSM8K dataset as prototypes. Each template encapsulates a unique mathematical problem structure, offering a diverse array of challenges that span various domains of mathematics.
 
 Huggingface dataset: https://huggingface.co/datasets/math-ai/TemplateGSM
 
