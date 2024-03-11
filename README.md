@@ -86,8 +86,8 @@ This dataset is made available under the Creative Commons Attribution 4.0 Intern
 If you utilize TemplateMath or the TemplateGSM dataset in your research or application, please consider citing it:
 
 ```bibtex
-@misc{templatemath2024,
-    title={TemplateMath: Syntactic Data Generation for Mathematical Problems},
+@misc{zhang2024training,
+    title={TemplateMath: Training Language Models with Syntactic Data Generation},
     author={Zhang, Yifan and Luo, Yifan and Yuan, Yang and Yao, Andrew Chi-Chih},
     year={2024},
 }
