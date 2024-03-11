@@ -87,7 +87,7 @@ If you utilize TemplateMath or the TemplateGSM dataset in your research or appli
 
 ```bibtex
 @misc{zhang2024training,
-    title={TemplateMath: Training Language Models with Syntactic Data Generation},
+    title={Training Language Models with Syntactic Data Generation},
     author={Zhang, Yifan and Luo, Yifan and Yuan, Yang and Yao, Andrew Chi-Chih},
     year={2024},
 }
