@@ -1,4 +1,4 @@
-# TemplateMath: TemplateMath: Training Language Models with Syntactic Data Generation 
+# TemplateMath: Training Language Models with Syntactic Data Generation 
 
 ## TemplateGSM Dataset
 
