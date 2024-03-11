@@ -83,7 +83,7 @@ This dataset is made available under the Creative Commons Attribution 4.0 Intern
 
 ## Citation
 
-If you utilize TemplateMath or the TemplateGSM dataset in your research or application, please consider citing it:
+If you utilize Syntactic Data Generation (SDG) or the TemplateGSM dataset in your research or application, please consider citing it:
 
 ```bibtex
 @misc{zhang2024training,
