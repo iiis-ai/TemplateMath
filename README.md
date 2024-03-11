@@ -74,7 +74,7 @@ To access the TemplateGSM dataset, you can use the Huggingface `datasets` librar
 from datasets import load_dataset
 
 # Load a specific configuration
-dataset = load_dataset("math-ai/TemplateGSM", "templategsm-7473-1k") # or any valid config_name
+dataset = load_dataset("math-ai/TemplateGSM", "templategsm-4000-1k") # or any valid config_name
 ```
 
 ## License
