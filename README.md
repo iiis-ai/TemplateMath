@@ -1,4 +1,4 @@
-# Training Language Models with Syntactic Data Generation 
+# Training and Evaluating Language Models with Template-based Data Generation
 
 ## TemplateGSM Dataset
 
@@ -83,11 +83,11 @@ This dataset is made available under the Creative Commons Attribution 4.0 Intern
 
 ## Citation
 
-If you utilize Syntactic Data Generation (SDG) or the TemplateGSM dataset in your research or application, please consider citing it:
+If you utilize Template-based Data Generation (TDG) or the TemplateGSM dataset in your research or application, please consider citing it:
 
 ```bibtex
 @misc{zhang2024training,
-    title={Training Language Models with Syntactic Data Generation},
+    title={Training and Evaluating Language Models with Template-based Data Generation},
     author={Zhang, Yifan and Luo, Yifan and Yuan, Yang and Yao, Andrew Chi-Chih},
     year={2024},
 }
