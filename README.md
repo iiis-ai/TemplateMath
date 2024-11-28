@@ -1,6 +1,12 @@
-# Training and Evaluating Language Models with Template-based Data Generation
+# Template-based Data Generation (TDG)
 
-## TemplateGSM Dataset
+Training and Evaluating Language Models with Template-based Data Generation, [https://arxiv.org/abs/2411.18104](https://arxiv.org/abs/2411.18104) 
+
+As Huggingface Daily Papers: https://huggingface.co/papers/2411.18104 
+
+
+
+## TemplateMath Part I: TemplateGSM Dataset
 
 The TemplateGSM dataset is a novel and extensive collection containing **over 7 million (up to infinite) grade school math problems** with code solutions and natural language solutions designed for advancing the study and application of mathematical reasoning within the realm of language modeling and AI. This dataset is crafted to challenge and evaluate the capabilities of language models in understanding and generating solutions to mathematical problems derived from a set of **7473** predefined **problem templates** using examples from the GSM8K dataset as prototypes. Each template encapsulates a unique mathematical problem structure, offering a diverse array of challenges that span various domains of mathematics.
 
