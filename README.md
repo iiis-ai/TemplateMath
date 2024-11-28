@@ -92,8 +92,10 @@ This dataset is made available under the Creative Commons Attribution 4.0 Intern
 If you utilize Template-based Data Generation (TDG) or the TemplateGSM dataset in your research or application, please consider citing it:
 
 ```bibtex
-@misc{zhang2024training,
+@article{zhang2024training,
     title={Training and Evaluating Language Models with Template-based Data Generation},
     author={Zhang, Yifan and Luo, Yifan and Yuan, Yang and Yao, Andrew Chi-Chih},
+    journal={arXiv preprint arXiv:2411.18104},
     year={2024},
 }
+```
