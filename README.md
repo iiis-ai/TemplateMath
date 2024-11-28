@@ -45,33 +45,33 @@ Each problem in the dataset includes the following fields:
 
 ```XML
 configs:
-- config_name: templategsm-4000-1k
-  data_files:
-      - split: train
-        path:
-          - data/1k/0000-0999/*.jsonl
-          - data/1k/1000-1999/*.jsonl
-          - data/1k/2000-3999/*.jsonl
-  default: true
-- config_name: templategsm-2000-1k
-  data_files:
-      - split: train
-        path:
-          - data/1k/0000-0999/*.jsonl
-          - data/1k/1000-1999/*.jsonl
-- config_name: templategsm-1000-1k
-  data_files:
-      - split: train
-        path:
-          - data/1k/0000-0999/*.jsonl
-- config_name: templategsm-7473-1k
-  data_files:
+  - config_name: templategsm-7473-1k
+    data_files:
       - split: train
         path:
           - data/1k/0000-0999/*.jsonl
           - data/1k/1000-1999/*.jsonl
           - data/1k/2000-3999/*.jsonl
           - data/1k/4000-7472/*.jsonl
+    default: true
+  - config_name: templategsm-4000-1k
+    data_files:
+      - split: train
+        path:
+          - data/1k/0000-0999/*.jsonl
+          - data/1k/1000-1999/*.jsonl
+          - data/1k/2000-3999/*.jsonl
+  - config_name: templategsm-2000-1k
+    data_files:
+      - split: train
+        path:
+          - data/1k/0000-0999/*.jsonl
+          - data/1k/1000-1999/*.jsonl
+  - config_name: templategsm-1000-1k
+    data_files:
+      - split: train
+        path:
+          - data/1k/0000-0999/*.jsonl
 ```
 
 To access the TemplateGSM dataset, you can use the Huggingface `datasets` library:
@@ -80,7 +80,7 @@ To access the TemplateGSM dataset, you can use the Huggingface `datasets` librar
 from datasets import load_dataset
 
 # Load a specific configuration
-dataset = load_dataset("math-ai/TemplateGSM", "templategsm-4000-1k") # or any valid config_name
+dataset = load_dataset("math-ai/TemplateGSM", "templategsm-7473-1k") # or any valid config_name
 ```
 
 ## License
