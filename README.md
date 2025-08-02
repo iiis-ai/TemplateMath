@@ -2,10 +2,10 @@
 
 # TemplateMath: Template-based Data Generation (TDG)
 
-[![ICLR25W](https://img.shields.io/badge/ICLR25W-Published-blue)]()
+[![ICLR25W](https://img.shields.io/badge/ICLR25W-Published-blue)](https://arxiv.org/abs/2411.18104)
 [![arXiv](https://img.shields.io/badge/arXiv-2411.18104-green.svg)](https://arxiv.org/abs/2411.18104)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-[![Website](https://img.shields.io/badge/Project-Website-green)]([https://templatemath.github.io](https://templatemath.github.io))
+[![Website](https://img.shields.io/badge/Project-Website-green)](https://templatemath.github.io)
 [![TemplateGSM](https://img.shields.io/badge/Huggingface-Datasets-blue)](https://huggingface.co/datasets/math-ai/TemplateGSM)
 
 </div>
