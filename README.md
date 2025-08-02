@@ -55,17 +55,12 @@ print(dataset['train'][0])
   * `problem_id`: `int` - A unique index for the problem within its template.
   * `source`: `string` - The original data source used to inspire the template.
 
-\<details\>
-\<summary\>\<b\>View All Configurations\</b\>\</summary\>
-
 The dataset is organized into several configurations based on the number of templates used:
 
   - **`templategsm-1000-1k`**: 1,000,000 problems from the first 1,000 templates.
   - **`templategsm-2000-1k`**: 2,000,000 problems from the first 2,000 templates.
   - **`templategsm-4000-1k`**: 4,000,000 problems from the first 4,000 templates.
   - **`templategsm-7473-1k`**: 7,473,000 problems from all 7,473 templates (the full dataset).
-
-\</details\>
 
 ## 🙏 Citation
 
