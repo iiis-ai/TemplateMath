@@ -64,7 +64,7 @@ The dataset is organized into several configurations based on the number of temp
 
 ## 🙏 Citation
 
-If you use the TemplateGSM dataset, the Template-based Data Generation (TDG) paradigm, or the concept of RLVR in your research, please cite our paper. Your citation allows us to continue building and sharing impactful resources with the community\!
+If you use the TemplateGSM dataset or the Template-based Data Generation (TDG) paradigm in your research, please cite our paper. Your citation allows us to continue building and sharing impactful resources with the community!
 
 ### Citing the Dataset or Methodology:
 
