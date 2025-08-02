@@ -2,7 +2,7 @@
 
 # TemplateMath: Template-based Data Generation (TDG)
 
-[![ICLRW](https://img.shields.io/badge/ICLRW-Published-blue)]()
+[![ICLR25W](https://img.shields.io/badge/ICLR25W-Published-blue)]()
 [![arXiv](https://img.shields.io/badge/arXiv-2411.18104-green.svg)](https://arxiv.org/abs/2411.18104)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![Website](https://img.shields.io/badge/Project-Website-green)]([https://templatemath.github.io](https://templatemath.github.io))
