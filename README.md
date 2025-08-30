@@ -69,7 +69,7 @@ If you use the TemplateGSM dataset or the Template-based Data Generation (TDG) p
 ### Citing the Dataset or Methodology:
 
 ```bibtex
-@article{zhang2024training,
+@misc{zhang2024training,
     title={Training and Evaluating Language Models with Template-based Data Generation},
     author={Zhang, Yifan and Luo, Yifan and Yuan, Yang and Yao, Andrew Chi-Chih},
     journal={arXiv preprint arXiv:2411.18104},
