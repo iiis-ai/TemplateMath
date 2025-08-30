@@ -70,12 +70,8 @@ If you use the TemplateGSM dataset or the Template-based Data Generation (TDG) p
 
 ```bibtex
 @misc{zhang2024training,
-    title={Training and Evaluating Language Models with Template-based Data Generation},
-    author={Zhang, Yifan and Luo, Yifan and Yuan, Yang and Yao, Andrew Chi-Chih},
-    journal={arXiv preprint arXiv:2411.18104},
-    year={2024},
-    eprint={2411.18104},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+  title={Training and Evaluating Language Models with Template-based Data Generation},
+  author={Zhang, Yifan and Luo, Yifan and Yuan, Yang and Yao, Andrew Chi-Chih},
+  year={2024}
 }
 ```
